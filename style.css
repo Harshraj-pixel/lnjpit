@@ -1,0 +1,167 @@
+*{
+    margin: 0;
+font-family: Arial;
+border: border-box;
+}
+.navbar{
+    background-color:rgb(61, 169, 251);
+    height: 160px;
+    color: white;
+    justify-content: space-evenly;
+    display: flex;
+    align-items: center;
+}
+.nav-logo{
+    height: 150px;
+    width: 135px;
+}
+.logo{
+    background-image: url(logo.png);
+    background-size: cover;
+    height: 120px;
+    width: 130px;
+}
+.navstate{
+    align-items: center;
+    align-items: center;
+}
+.up{
+    font-size: 40px;
+    color: whitesmoke;
+}
+.yes{
+    font-size: 20px;
+}
+.dstlogo{
+    background-image: url(gov-bih-logo.png);
+    height: 120px;
+    width: 130px;
+    background-size: cover;
+}
+.write{
+    display: flex;
+    margin-top:1rem;
+}
+.Home{
+    margin-top: 5rem;
+    font-size: 1rem;
+
+color: rgb(150, 250, 87);
+}
+.font{
+    
+}
+.sec{
+    height: 3rem;
+    background-color: rgb(194, 251, 69);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.option{
+height: 1rem;
+}
+.photosection{
+    background-color: rgb(200, 209, 221);
+display: flex;
+justify-content: space-evenly;
+
+}
+.box{
+    height: 400px;
+    width: 50%;
+    background-color: azure;
+    margin-top: 15px;
+    padding: 20px,0px,15px;
+}
+.boxcontent{
+margin-left: 1opx;
+margin-right: 5px;
+color:brown;
+}
+.image{
+    background-image: url(lnjpit-chapra.jpg);
+    height: 350px;
+    
+    background-size: cover;
+}
+.image2{
+    background-image: url(3-scaled.jpg);
+    height: 350px;
+    
+    background-size: cover;
+}
+.ramaa{
+    align-items: center;
+}
+.writer{
+    display: inline;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    margin-bottom: 10rem;
+    margin-bottom: 10rem;
+   
+}
+.place{
+    background-color:rgb(61, 169, 251);
+    height: 300px;
+    color: white;
+  
+}
+.com{
+    height: 300px;
+    
+    justify-content: space-evenly;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+}
+.company{
+    background-image: url(download.png);
+    background-size: cover;
+    height: 250px;
+    width: 209px;
+   }
+.oil{
+
+    background-image: url(download.jpg);
+    background-size: cover;
+    height: 235px;
+    width: 225px;
+}
+.prism{
+    background-image: url(001266.gif);
+    background-size: cover;
+    height: 220px;
+    width: 190px;
+}
+.footer1{
+    color: white;
+    font-size: 1rem;
+background-color: #37475a;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.back{
+    height: 30px;
+    margin-top: 10px;
+}
+.info{
+    
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #222f3d;
+    height: 300px;
+}
+.ram{
+    margin-top: 50px;
+    font-size: 1.5rem;
+    color: white;
+}
+.sita{
+    color: rgb(209, 205, 205);
+}
+.sell{
+    margin-top: 50px;
+}
